@@ -4,7 +4,7 @@ I'm Tran Minh Hieu a Software Engineering  Developer about Website, Mobile app, 
 
 :mailbox: Reach me out!
 
-### CoderOne Newsletter
+### Jobs:
 Web Development, React, Security, Software Engineering, Mobile app with React Native. I'm still learn Japanese and become reach N1.
 
 
